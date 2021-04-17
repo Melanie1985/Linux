@@ -12,3 +12,11 @@
 - SUDO CODE - See certificate
 - CHALLENGES FACED - Working with new commmands in linux was fun, I enjoyed seeing what each new command could achieve.
 - HOW I OVERCAME THIS CHALLENGE - TO be honest, I found this week quite simple and enjoyable to do.
+
+
+- SESSION 3 - Episode 2 Lab, Linux File Permissions Lab
+- BRIEF - Complete all the labs given in this weeks session. 
+- USING IMMERSIVE LABS
+- SUDO CODE - See certificate
+- CHALLENGES FACED - This week was a bit trickier as we were taught about the different permissions involved within linux. Also learnt about the differnt modes needed to make these permissions.
+- HOW I OVERCAME THIS CHALLENGE - I feel like I did a lot more reading for this weeks lab than I did previously. I also found that I had to go digging around the internet a bit more to help with my solutions.
