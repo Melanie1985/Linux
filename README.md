@@ -20,3 +20,12 @@
 - SUDO CODE - See certificate
 - CHALLENGES FACED - This week was a bit trickier as we were taught about the different permissions involved within linux. Also learnt about the differnt modes needed to make these permissions.
 - HOW I OVERCAME THIS CHALLENGE - I feel like I did a lot more reading for this weeks lab than I did previously. I also found that I had to go digging around the internet a bit more to help with my solutions.
+
+- SESSION 4 - IP Addresses Lab, Networking Internet Protocol Lab, Going Places Lab
+- BRIEF - Complete all the labs given in this weeks session. 
+- USING IMMERSIVE LABS
+- SUDO CODE - See certificate
+- CHALLENGES FACED - I had fun learning about the different IP addresses and how they are given out and what they are made up of. There was a lot I didn't quite understand so the session and the labs really helped with that.
+- HOW I OVERCAME THIS CHALLENGE - Again, this weeks labs were a bit trickier as I guess as each week goes by we are sup-posed to be grasping a better knowledge of each subject which I do feel like I am. 
+
+
